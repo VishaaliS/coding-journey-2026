@@ -1,6 +1,6 @@
 # Coding Journey 2026
 
-I'm restarting my coding journey in October 2026 alongside my college's codered program. This repository will record the DSA problems I actually solve, the ideas I learn, and the projects I build.
+I'm restarting my coding journey in October 2026 alongside my college's Code Red program. This repository will record the DSA problems I actually solve, the ideas I learn, and the projects I build.
 
 ## What I'll track
 

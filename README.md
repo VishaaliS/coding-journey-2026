@@ -11,7 +11,7 @@ I'm restarting my coding journey in October 2026 alongside my college's Code Red
 ## Repository structure
 
 ```text
-daily/YYYY/YYYY-MM-DD.md      Daily progress and 
+daily/YYYY/YYYY-MM-DD.md      Daily progress and reflections
 solutions/java/              Java solutions, organized by problem
 projects/                    Notes and links for project work
 ```
